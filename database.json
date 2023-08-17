@@ -2,74 +2,93 @@
   "people": [
     {
       "id": 1,
-      "name": "Alice",
+      "name": "Alice Chung",
       "age": 25,
       "email": "alice@example.com",
-      "hobbies": ["Reading", "Painting"]
+      "hobbies": [
+        "Reading",
+        "Painting"
+      ]
     },
     {
       "id": 2,
-      "name": "Bob",
-      "age": 30,
+      "name": "Mike Lee",
+      "age": 44,
       "email": "bob@example.com",
-      "hobbies": ["Gardening"]
+      "hobbies": [
+        "Gardening"
+      ]
     },
     {
       "id": 3,
-      "name": "Charlie",
+      "name": "Charlie Booker",
       "age": 22,
       "email": "charlie@example.com",
-      "hobbies": ["Cooking", "Hiking", "Photography"]
+      "hobbies": [
+        "Cooking",
+        "Hiking",
+        "Photography"
+      ]
     },
     {
       "id": 4,
-      "name": "David",
+      "name": "David Jones",
       "age": 28,
       "email": "david@example.com",
-      "hobbies": ["Playing Guitar", "Swimming", "Video Games"]
+      "hobbies": [
+        "Playing Guitar",
+        "Swimming",
+        "Video Games"
+      ]
     },
     {
       "id": 5,
-      "name": "Eve",
+      "name": "Eve Cho",
       "age": 23,
       "email": "eve@example.com",
-      "hobbies": ["Dancing", "Traveling"]
+      "hobbies": [
+        "Dancing",
+        "Traveling"
+      ]
     }
   ],
-
   "products": [
     {
+      "id": 1,
       "name": "Smartphone",
       "price": 499.99,
       "description": "A powerful mobile device with advanced features.",
       "rating": 4.5
     },
     {
+      "id": 2,
       "name": "Laptop",
       "price": 899.99,
       "description": "A versatile and high-performance computing machine.",
-      "rating": 4.8
+      "rating": 2.8
     },
     {
+      "id": 3,
       "name": "Smart TV",
       "price": 699.99,
       "description": "A large-screen television with streaming capabilities.",
       "rating": 4.3
     },
     {
+      "id": 4,
       "name": "Wireless Earbuds",
       "price": 129.99,
       "description": "Compact earbuds with high-quality audio and wireless convenience.",
       "rating": 4.7
     },
     {
+      "id": 5,
       "name": "Tablet",
       "price": 349.99,
       "description": "A portable touchscreen device for entertainment and productivity.",
       "rating": 4.2
     }
   ],
-
   "users": [
     {
       "id": 1,
@@ -107,7 +126,6 @@
       "member": false
     }
   ],
-
   "tasks": [
     {
       "id": 1,
